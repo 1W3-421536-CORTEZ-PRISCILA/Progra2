@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\data\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\data\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\data\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\data\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\data\\helper\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\data\\helper\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\data\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\domain\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\domain\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|c:\\users\\usuario\\downloads\\problema 1.5\\problema 1.5\\problema 1.5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{34937146-9D71-4C9A-A268-11C0BB166F0F}|Problema 1.5\\Problema 1.5.csproj|solutionrelative:problema 1.5\\problema 1.5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Services\\FacturaService.cs",
+              "RelativeToolTip": "Problema 1.5\\Services\\FacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:51:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Implementations\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Data\\Implementations\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Implementations\\FacturaRepository.cs",
+              "RelativeToolTip": "Problema 1.5\\Data\\Implementations\\FacturaRepository.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:00:28.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Interfaces\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Data\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Interfaces\\IFacturaRepository.cs",
+              "RelativeToolTip": "Problema 1.5\\Data\\Interfaces\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:49:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Helper\\SpParameter.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Data\\Helper\\SpParameter.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Helper\\SpParameter.cs",
+              "RelativeToolTip": "Problema 1.5\\Data\\Helper\\SpParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:47:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Helper\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Data\\Helper\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Data\\Helper\\DataHelper.cs",
+              "RelativeToolTip": "Problema 1.5\\Data\\Helper\\DataHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:34:50.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Program.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Program.cs",
+              "RelativeToolTip": "Problema 1.5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:50:41.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Domain\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\FormaPago.cs",
+              "RelativeToolTip": "Problema 1.5\\Domain\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:13:02.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Domain\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\DetalleFactura.cs",
+              "RelativeToolTip": "Problema 1.5\\Domain\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:12:33.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\Articulo.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Domain\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\Articulo.cs",
+              "RelativeToolTip": "Problema 1.5\\Domain\\Articulo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:12:04.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Problema 1.5\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Properties\\Resources.resx",
+              "RelativeToolTip": "Problema 1.5\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-05T02:58:20.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Problema 1.5",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Problema 1.5.csproj",
+              "RelativeDocumentMoniker": "Problema 1.5\\Problema 1.5.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Problema 1.5.csproj",
+              "RelativeToolTip": "Problema 1.5\\Problema 1.5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T02:58:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\Factura.cs",
+              "RelativeDocumentMoniker": "Problema 1.5\\Domain\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Problema 1.5\\Problema 1.5\\Domain\\Factura.cs",
+              "RelativeToolTip": "Problema 1.5\\Domain\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:55:02.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
